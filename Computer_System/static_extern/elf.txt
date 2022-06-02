@@ -1,0 +1,9 @@
+
+Relocation section '.rela.text' at offset 0x250 contains 1 entry:
+  Offset          Info           Type           Sym. Value    Sym. Name + Addend
+00000000003d  000900000004 R_X86_64_PLT32    0000000000000000 sum - 4
+
+Relocation section '.rela.eh_frame' at offset 0x268 contains 2 entries:
+  Offset          Info           Type           Sym. Value    Sym. Name + Addend
+000000000020  000200000002 R_X86_64_PC32     0000000000000000 .text + 0
+000000000040  000200000002 R_X86_64_PC32     0000000000000000 .text + 18

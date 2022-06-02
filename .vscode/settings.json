@@ -1,0 +1,45 @@
+{
+    // "files.associations": {
+    //     "cstring": "c",
+    //     "typeinfo": "c",
+    //     "string.h": "c"
+    // },
+    
+        "files.associations": {
+            "ostream": "cpp",
+            "xstring": "cpp",
+            "xtree": "cpp",
+            "vector": "cpp",
+            "iostream": "cpp",
+            "array": "c",
+            "chrono": "c",
+            "functional": "c",
+            "ratio": "c",
+            "scoped_allocator": "c",
+            "tuple": "c",
+            "type_traits": "c",
+            "utility": "c",
+            "pcb.h": "c",
+            "*.tcc": "c",
+            "bitset": "c",
+            "fstream": "c",
+            "iomanip": "c",
+            "streambuf": "c",
+            "deque": "cpp",
+            "forward_list": "cpp",
+            "list": "cpp",
+            "string": "cpp",
+            "unordered_map": "cpp",
+            "unordered_set": "cpp",
+            "memory": "cpp",
+            "future": "cpp",
+            "istream": "cpp",
+            "shared_mutex": "cpp",
+            "sstream": "cpp",
+            "thread": "cpp",
+            "regex": "cpp",
+            "valarray": "cpp",
+            "stdio.h": "c"
+        },
+        "C_Cpp.errorSquiggles": "Enabled"
+}
